@@ -52,7 +52,7 @@ Packet sent: NODE=01,TEMP=27.4,HUM=59.9,ADC=1817,SEQ=2
 
 Packet sent: NODE=01,TEMP=27.7,HUM=60.5,ADC=1875,SEQ=3
 
-##Data Format
+## Data Format
 
 NODE=01,TEMP=27.5,HUM=60.2,ADC=1840,SEQ=0
 
